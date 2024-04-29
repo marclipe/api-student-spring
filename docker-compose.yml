@@ -1,0 +1,11 @@
+version: '3.8'
+services:
+  db:
+    container_name: student_api_postgres
+    image: postgres
+    ports:
+      - 5432:5432
+    environment:
+      - POSTGRES_USER=marclipe
+      - POSTGRES_PASSWORD=student
+      - POSTGRES_DB=student_api
