@@ -24,3 +24,5 @@ Este projeto segue uma arquitetura monolítica, onde todas as funcionalidades e 
 
 ### Layout 
 ![post-student](https://github.com/marclipe/api-student-spring/blob/main/github/student-post.png?raw=true)
+
+![post-student](https://github.com/marclipe/api-student-spring/blob/main/github/student-ide.png?raw=true)
