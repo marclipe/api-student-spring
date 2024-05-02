@@ -17,10 +17,10 @@ Este projeto segue uma arquitetura monolítica, onde todas as funcionalidades e 
 - Controlador: Classes que coordenam as interações entre o modelo e a visão, implementando a lógica de negócios e o roteamento das solicitações.
 
 ### Funcionalidades
-- Cadastro de estudantes
-- Visualização de estudantes e visualização por id
-- Atualização de estudantes
-- Exclusão de estudantes
+- Cadastro de estudantes;
+- Visualização de estudantes e visualização por id;
+- Atualização de estudantes;
+- Exclusão de estudantes.
 
 ### Layout 
 ![post-student](https://github.com/marclipe/api-student-spring/blob/main/github/student-post.png?raw=true)
